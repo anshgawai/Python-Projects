@@ -1,0 +1,50 @@
+Perfect! Since you’ve already covered basics up to **tuples**, I’ll give you a mix of **beginner-level problem statements** that will help you practice conditionals, loops, lists, strings, and tuples.
+
+Here’s a set for you:
+
+---
+
+### 🐍 Beginner Python Problem Statements
+
+1. **Even or Odd**
+   Write a program that takes an integer input and prints whether it’s even or odd.
+
+2. **Maximum of Three Numbers**
+   Take three numbers as input and print the largest one.
+
+3. **Simple Calculator**
+   Ask the user for two numbers and an operator (`+`, `-`, `*`, `/`) and perform the calculation.
+
+4. **Multiplication Table**
+   Print the multiplication table of a number entered by the user (from 1 to 10).
+
+5. **Sum of Digits**
+   Take a number (e.g., 1234) and print the sum of its digits (→ 1+2+3+4 = 10).
+
+6. **Palindrome Check**
+   Check if a given string or number is a palindrome (same forwards and backwards).
+
+7. **Count Vowels in a String**
+   Input a string and count how many vowels (`a, e, i, o, u`) it has.
+
+8. **List Reversal**
+   Take a list from the user and print it in reverse without using `.reverse()` or slicing.
+
+9. **Tuple Unpacking**
+   Given a tuple like `(name, age, city)`, unpack and print each value.
+
+10. **Fibonacci Sequence**
+    Print the first `n` Fibonacci numbers where `n` is given by the user.
+
+11. **Find Minimum and Maximum in a List**
+    Without using `min()` or `max()`, find the smallest and largest element in a list.
+
+12. **Word Frequency Counter**
+    Input a sentence and count how many times each word occurs.
+
+13. **Guess the Number Game**
+    Write a program where the computer picks a random number between 1 and 20, and the user keeps guessing until correct.
+
+---
+
+Do you want me to **create these problems as an actual exercise sheet** (like input/output examples + constraints), or just keep them as open-ended practice problems?
